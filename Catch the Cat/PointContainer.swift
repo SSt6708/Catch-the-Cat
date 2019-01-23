@@ -119,7 +119,7 @@ class PointContainer:SKNode{
     //try to randomize location of red dots
     func onSetRed(index: Int){
         arrPoint[index].type = PointType.red;
-        
+        arrPoint[index].texture = textPoint2;
     }
     
     func onCreateRed(){
