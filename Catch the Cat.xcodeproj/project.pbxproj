@@ -21,6 +21,7 @@
 		26E669EF21E819750015BF3A /* EkoPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E669EE21E819750015BF3A /* EkoPoint.swift */; };
 		26E669F121EB0BE20015BF3A /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E669F021EB0BE20015BF3A /* Cat.swift */; };
 		26E669F321EB0C3A0015BF3A /* db.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 26E669F221EB0C3A0015BF3A /* db.atlas */; };
+		26E66A4121F8129C0015BF3A /* Catch the Cat Gamplay in Resources */ = {isa = PBXBuildFile; fileRef = 26E66A4021F8129C0015BF3A /* Catch the Cat Gamplay */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		26E669EE21E819750015BF3A /* EkoPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EkoPoint.swift; sourceTree = "<group>"; };
 		26E669F021EB0BE20015BF3A /* Cat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat.swift; sourceTree = "<group>"; };
 		26E669F221EB0C3A0015BF3A /* db.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; name = db.atlas; path = ../../db.atlas; sourceTree = "<group>"; };
+		26E66A4021F8129C0015BF3A /* Catch the Cat Gamplay */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Catch the Cat Gamplay"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				26E669BC21E7FC1A0015BF3A /* Actions.sks */,
 				26E669BE21E7FC1A0015BF3A /* GameScene.swift */,
 				26E669EC21E815BA0015BF3A /* PointContainer.swift */,
+				26E66A4021F8129C0015BF3A /* Catch the Cat Gamplay */,
 				26E669F021EB0BE20015BF3A /* Cat.swift */,
 				26E669EE21E819750015BF3A /* EkoPoint.swift */,
 				26E669C021E7FC1A0015BF3A /* GameViewController.swift */,
@@ -253,6 +256,7 @@
 				26E669C421E7FC1A0015BF3A /* Main.storyboard in Resources */,
 				26E669BB21E7FC1A0015BF3A /* GameScene.sks in Resources */,
 				26E669C621E7FC1D0015BF3A /* Assets.xcassets in Resources */,
+				26E66A4121F8129C0015BF3A /* Catch the Cat Gamplay in Resources */,
 				26E669F321EB0C3A0015BF3A /* db.atlas in Resources */,
 				26E669C921E7FC1D0015BF3A /* LaunchScreen.storyboard in Resources */,
 				26E669BD21E7FC1A0015BF3A /* Actions.sks in Resources */,
